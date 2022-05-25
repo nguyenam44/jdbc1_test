@@ -1,0 +1,19 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 20, 2022, 1:11:32 PM
+    Author     : PHT
+*/
+
+.page-header{
+    font-size: 32px;
+    font-weight: bold;
+    border-bottom: solid 1pt gray;
+}
+
+.page-body{
+    
+}
